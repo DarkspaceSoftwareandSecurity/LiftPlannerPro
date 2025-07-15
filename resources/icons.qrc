@@ -1,0 +1,183 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="/icons">
+        <!-- Application icons -->
+        <file>icons/app_icon.png</file>
+        <file>icons/app_button.png</file>
+        
+        <!-- File operations -->
+        <file>icons/new.png</file>
+        <file>icons/open.png</file>
+        <file>icons/save.png</file>
+        <file>icons/save_as.png</file>
+        
+        <!-- Edit operations -->
+        <file>icons/undo.png</file>
+        <file>icons/redo.png</file>
+        <file>icons/cut.png</file>
+        <file>icons/copy.png</file>
+        <file>icons/paste.png</file>
+        <file>icons/copy_clipboard.png</file>
+        <file>icons/copy_base.png</file>
+        
+        <!-- Drawing tools -->
+        <file>icons/line.png</file>
+        <file>icons/polyline.png</file>
+        <file>icons/circle.png</file>
+        <file>icons/arc.png</file>
+        <file>icons/rectangle.png</file>
+        <file>icons/polygon.png</file>
+        <file>icons/ellipse.png</file>
+        <file>icons/spline.png</file>
+        
+        <!-- Modification tools -->
+        <file>icons/move.png</file>
+        <file>icons/copy.png</file>
+        <file>icons/rotate.png</file>
+        <file>icons/scale.png</file>
+        <file>icons/mirror.png</file>
+        <file>icons/offset.png</file>
+        <file>icons/trim.png</file>
+        <file>icons/extend.png</file>
+        <file>icons/fillet.png</file>
+        <file>icons/chamfer.png</file>
+        
+        <!-- Layer tools -->
+        <file>icons/layer_properties.png</file>
+        <file>icons/layer_current.png</file>
+        <file>icons/layer_previous.png</file>
+        <file>icons/layer_on.png</file>
+        <file>icons/layer_freeze.png</file>
+        <file>icons/layer_lock.png</file>
+        
+        <!-- Properties -->
+        <file>icons/properties.png</file>
+        <file>icons/match_properties.png</file>
+        <file>icons/color.png</file>
+        <file>icons/linetype.png</file>
+        <file>icons/lineweight.png</file>
+        
+        <!-- Block tools -->
+        <file>icons/block_insert.png</file>
+        <file>icons/block_create.png</file>
+        <file>icons/block_edit.png</file>
+        <file>icons/block_write.png</file>
+        
+        <!-- Reference tools -->
+        <file>icons/xref_attach.png</file>
+        <file>icons/xref_clip.png</file>
+        <file>icons/xref_adjust.png</file>
+        <file>icons/xref_manager.png</file>
+        
+        <!-- Content tools -->
+        <file>icons/design_center.png</file>
+        <file>icons/tool_palettes.png</file>
+        <file>icons/content_browser.png</file>
+        
+        <!-- Data tools -->
+        <file>icons/table.png</file>
+        <file>icons/field.png</file>
+        <file>icons/ole_object.png</file>
+        
+        <!-- Text tools -->
+        <file>icons/mtext.png</file>
+        <file>icons/text.png</file>
+        <file>icons/text_style.png</file>
+        <file>icons/text_edit.png</file>
+        
+        <!-- Dimension tools -->
+        <file>icons/dim_linear.png</file>
+        <file>icons/dim_aligned.png</file>
+        <file>icons/dim_angular.png</file>
+        <file>icons/dim_radius.png</file>
+        <file>icons/dim_diameter.png</file>
+        <file>icons/dim_arc.png</file>
+        <file>icons/dim_ordinate.png</file>
+        
+        <!-- Leader tools -->
+        <file>icons/multileader.png</file>
+        <file>icons/qleader.png</file>
+        <file>icons/leader_style.png</file>
+        
+        <!-- Markup tools -->
+        <file>icons/revcloud.png</file>
+        <file>icons/wipeout.png</file>
+        <file>icons/markup.png</file>
+        
+        <!-- View tools -->
+        <file>icons/view_top.png</file>
+        <file>icons/view_front.png</file>
+        <file>icons/view_right.png</file>
+        <file>icons/view_sw_iso.png</file>
+        
+        <!-- Navigation tools -->
+        <file>icons/zoom_extents.png</file>
+        <file>icons/zoom_window.png</file>
+        <file>icons/zoom_previous.png</file>
+        <file>icons/pan.png</file>
+        <file>icons/orbit.png</file>
+        
+        <!-- Coordinate tools -->
+        <file>icons/ucs.png</file>
+        <file>icons/ucs_world.png</file>
+        <file>icons/ucs_object.png</file>
+        <file>icons/ucs_face.png</file>
+        
+        <!-- Visual style tools -->
+        <file>icons/visual_wireframe.png</file>
+        <file>icons/visual_hidden.png</file>
+        <file>icons/visual_realistic.png</file>
+        <file>icons/visual_conceptual.png</file>
+        
+        <!-- Plot tools -->
+        <file>icons/plot.png</file>
+        <file>icons/page_setup.png</file>
+        <file>icons/plot_preview.png</file>
+        <file>icons/plotter_manager.png</file>
+        
+        <!-- Publish tools -->
+        <file>icons/batch_plot.png</file>
+        <file>icons/publish_web.png</file>
+        <file>icons/3d_print.png</file>
+        
+        <!-- Export tools -->
+        <file>icons/export.png</file>
+        <file>icons/export_pdf.png</file>
+        <file>icons/export_dwf.png</file>
+        <file>icons/export_image.png</file>
+        
+        <!-- UI controls -->
+        <file>icons/ribbon_minimize.png</file>
+        <file>icons/ribbon_expand.png</file>
+        <file>icons/help.png</file>
+        
+        <!-- 3D primitives -->
+        <file>icons/box.png</file>
+        <file>icons/sphere.png</file>
+        <file>icons/cylinder.png</file>
+        <file>icons/cone.png</file>
+        <file>icons/torus.png</file>
+        <file>icons/wedge.png</file>
+        
+        <!-- Status bar icons -->
+        <file>icons/snap.png</file>
+        <file>icons/grid.png</file>
+        <file>icons/ortho.png</file>
+        <file>icons/polar.png</file>
+        <file>icons/osnap.png</file>
+        <file>icons/otrack.png</file>
+        <file>icons/ducs.png</file>
+        <file>icons/dyn.png</file>
+        <file>icons/lwt.png</file>
+        <file>icons/transparency.png</file>
+        
+        <!-- ViewCube -->
+        <file>icons/viewcube_home.png</file>
+        <file>icons/viewcube_top.png</file>
+        <file>icons/viewcube_front.png</file>
+        <file>icons/viewcube_right.png</file>
+        <file>icons/viewcube_bottom.png</file>
+        <file>icons/viewcube_back.png</file>
+        <file>icons/viewcube_left.png</file>
+    </qresource>
+</RCC>

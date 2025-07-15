@@ -1,0 +1,11 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="/styles">
+        <file>styles/dark_theme.qss</file>
+        <file>styles/ribbon.qss</file>
+        <file>styles/dockwidgets.qss</file>
+        <file>styles/viewport.qss</file>
+        <file>styles/statusbar.qss</file>
+        <file>styles/dialogs.qss</file>
+    </qresource>
+</RCC>
