@@ -1,4 +1,4 @@
-# AutoCAD Clone - Comprehensive CAD Application
+# LIFT PLANNER PRO CAD APPLICATION
 
 A professional-grade CAD application built with Qt 6 and OpenCASCADE Technology, providing complete AutoCAD-style functionality and user experience.
 
