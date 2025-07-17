@@ -206,3 +206,5 @@ The codebase serves as a reference for building professional CAD applications wi
 ## License
 
 This project demonstrates advanced CAD application development techniques and is intended for educational and reference purposes.
+FOR SUPPORT PLEASE EMAIL M.BLENKINSOP@YAHOO.CO.UK
+COPYRIGHT M J BLENKINSOP 
