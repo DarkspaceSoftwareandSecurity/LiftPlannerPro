@@ -1,5 +1,7 @@
 # LIFT PLANNER PRO CAD APPLICATION
 
+<img width="326" height="329" alt="LPP" src="https://github.com/user-attachments/assets/ed70631d-b3a2-4ce6-b7eb-001df45e834c" />
+
 A professional-grade CAD application built with Qt 6 and OpenCASCADE Technology, providing complete AutoCAD-style functionality and user experience.
 
 ## Features Implemented
